@@ -89,7 +89,7 @@ body {
 	position: absolute;	
 	overflow: hidden;
 	max-width: 0;
-	left: 500px;
+	left: 250px;
 	animation: pinanim 2s ease-out infinite;
 }
 @keyframes pinanim {
