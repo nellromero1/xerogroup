@@ -85,8 +85,9 @@ body {
 	color: rgba(255, 255, 255, 0.51);
 }
 .pin:before {
-	content: "  ";
+	content: " ...Cargando... ";
 	position: absolute;
+	left: 80;
 	overflow: hidden;
 	max-width: 0;
 	text-align: left;
