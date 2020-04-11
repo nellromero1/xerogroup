@@ -79,13 +79,13 @@ body {
 	text-align: left;
 }
 .pin:after {
-	content: "¡Estamos felices de que nos visites! : ";
+	content: "¡Estamos felices de que nos visites! :) ";
 	position: absolute;
 	left: -100%;
 	color: rgba(255, 255, 255, 0.51);
 }
 .pin:before {
-	content: "¡XeroGroup! ;)";
+	content: "  ";
 	position: absolute;
 	overflow: hidden;
 	max-width: 0;
