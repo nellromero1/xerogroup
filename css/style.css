@@ -87,11 +87,11 @@ body {
 .pin:before {
 	content: " ...Cargando... ";
 	position: absolute;
-	left: 80;
+	left: 500;
 	overflow: hidden;
 	max-width: 0;
 	text-align: left;
-	animation: pinanim 10s ease-out infinite;
+	animation: pinanim 2s ease-out infinite;
 }
 @keyframes pinanim {
 	0% {
